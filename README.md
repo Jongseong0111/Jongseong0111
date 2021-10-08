@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Jongseong0111
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... leon1111@naver.com
 
-<!---
-Jongseong0111/Jongseong0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  구현의도를 중요하게 생각하는 백엔드 개발자 입니다.
+  단순 기능 구현보다 유연한 코드 작성을 지향합니다.
+  문제의 해결보다 근본 원인에 대해 고민하는 것을 좋아합니다.
