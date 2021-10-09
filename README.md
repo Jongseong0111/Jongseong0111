@@ -5,7 +5,4 @@
 
 문제의 해결보다 근본 원인에 대해 고민하는 것을 좋아합니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongseong0111&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-This page contains the following errors:
-error on line 110 at column 27: PCDATA invalid Char value 28
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongseong0111)](https://github.com/anuraghazra/github-readme-stats)
