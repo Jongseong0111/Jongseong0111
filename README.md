@@ -8,7 +8,7 @@
 
 <h3 align="center"> Hello! I'm Jongseong Lim, Junior Backend Developer. </h3>
 <h3 align="center">
-Not to solve the problem, but to solve the root cause!
+Not to just solve the problem, but to solve the root cause!
 </h3>
 <br>
 <h3 align="center">TECH SKILLS</h3>
