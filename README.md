@@ -1,11 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HKJA&desc=BackEnd%20Developer&descAlign=50&descAlignY=65&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HKJA&desc=BackEnd%20Developer&descAlign=50&descAlignY=65&fontSize=70&animation=twinkling)
 
-<div align=center>
+<div align="center">
   
 [![HKJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongseong0111&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 </div>
 
+<h3 align="center"> Hello! I'm Jongseong Lim, Junior Backend Developer. </h3>
+<h3 align="center">
+Not to solve the problem, but to solve the root cause!
+</h3>
+<br>
 <h3 align="center">TECH SKILLS</h3>
 <h4 align="center">Backend</h4>
 <p align="center">
@@ -35,3 +40,5 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongseong0111&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&animation=twinkling)
