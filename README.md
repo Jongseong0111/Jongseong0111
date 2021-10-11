@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![HKJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongseong0111&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![HKJA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongseong0111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
