@@ -29,9 +29,9 @@ Not to just solve the problem, but to solve the root cause!
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
 
-
 <h3 align="center">Touch Me</h3>
 <p align="center">
+  <a href="https://fierce-bank-f99.notion.site/456f21232b6e441bb18485544f9a3e32"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://fierce-bank-f99.notion.site/456f21232b6e441bb18485544f9a3e32"/></a>&nbsp
   <a href="https://velog.io/@hkja0111"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hkja0111"/></a>&nbsp
   <a href="mailto:qkqndudnxld@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qkqndudnxld@gmail.com"/></a>
 </p>
