@@ -16,7 +16,7 @@ Not to just solve the problem, But to solve the root cause!
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=G&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
 </a>&nbsp 
 </p>
 <h4 align="center">DevOps</h4>
